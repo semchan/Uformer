@@ -38,6 +38,15 @@ UFormer
     ├── eccv16_dataset_tvsum_google_pool5.h5
     ├── eccv16_dataset_youtube_google_pool5.h5
     └── readme.txt
+└── eval_models/
+    ├── ab_ovp_youtube
+    ├── anchor_based
+        ├──ab_basic
+        ├──augmented
+        ├──canonical
+        └──transfer
+    └── anchor_free
+        └──canonical
 ```
 
 ## Evaluation

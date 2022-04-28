@@ -78,12 +78,13 @@ We gratefully thank the below open-source repo, which greatly boost our research
 If you find our codes or paper helpful, please consider citing.
 
 ```
-@article{zhu2020dsnet,
-  title={DSNet: A Flexible Detect-to-Summarize Network for Video Summarization},
-  author={Zhu, Wencheng and Lu, Jiwen and Li, Jiahao and Zhou, Jie},
-  journal={IEEE Transactions on Image Processing},
-  volume={30},
-  pages={948--962},
-  year={2020}
+@article{chen2022video,
+  title={Video summarization with u-shaped transformer},
+  author={Chen, Yaosen and Guo, Bing and Shen, Yan and Zhou, Renshuang and Lu, Weichen and Wang, Wei and Wen, Xuming and Suo, Xinhua},
+  journal={Applied Intelligence},
+  pages={1--17},
+  year={2022},
+  publisher={Springer}
 }
+
 ```

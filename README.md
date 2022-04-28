@@ -25,7 +25,7 @@ Download the pre-processed datasets into `datasets/` folder, including [TVSum](h
 
 
 
-+ (Baidu Cloud) Link: 链接：https://pan.baidu.com/s/1a0iH8NWmwtdYKQvzWS62WQ Extraction Code: 1234
++ (Baidu Cloud) Link: https://pan.baidu.com/s/1a0iH8NWmwtdYKQvzWS62WQ Extraction Code: 1234
 
 
 Now the datasets structure should look like

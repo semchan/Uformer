@@ -9,7 +9,7 @@ This project is developed on Ubuntu 16.04 with CUDA 9.0.176.
 
 
 ```sh
-git clone 
+git clone https://github.com/semchan/Uformer.git
 ```
 
 
